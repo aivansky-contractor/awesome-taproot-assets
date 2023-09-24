@@ -166,6 +166,8 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Root-USD](https://github.com/D33r-Gee/rootUSD-Prototype)
 - [Tao](https://tao.deezy.io/)
 - [Nostr Assets Protocol](https://doc.nostrassets.com/)
+- [Usd1000000Stablecoin - a Taproot Assets stablecoin stabilized by a bot](https://testnet.tarowallet.net/walletapp/currencies_public/131)
+- [WaifuCoin - A meme coin minted on Taproot Assets with a price chart](https://testnet.tarowallet.net/walletapp/currencies_public/3)
 - Galaxy Digital
 - UB
 
@@ -180,6 +182,10 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 ## Rewards
 
 - [Joltz Rewards](https://joltzrewards.com/)
+
+## Online shops
+
+- [TAP Test Store - make test purchases using Taproot Assets](https://tapd-store.tarowallet.net/)
 
 ## Extra list
 
